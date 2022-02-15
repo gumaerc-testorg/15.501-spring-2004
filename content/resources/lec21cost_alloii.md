@@ -2,8 +2,13 @@
 content_type: resource
 description: 'Lecture presentation covering the following topics: cost allocation
   and death spirals.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/2f087dd985b6b46dd358a98d956643d1_lec21cost_alloii.pdf
+file: /media/courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/2f087dd985b6b46dd358a98d956643d1_lec21cost_alloii.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec21cost_alloii.pdf
 uid: 2f087dd9-85b6-b46d-d358-a98d956643d1

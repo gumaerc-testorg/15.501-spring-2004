@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Solutions to the midterm exam problems.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/6278388479be58487d6472053c6901da_mid2_fall03_sol.pdf
+file: /media/courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/6278388479be58487d6472053c6901da_mid2_fall03_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: mid2_fall03_sol.pdf
 uid: 62783884-79be-5848-7d64-72053c6901da

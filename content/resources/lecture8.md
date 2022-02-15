@@ -2,8 +2,13 @@
 content_type: resource
 description: 'Lecture presentation covering the following topics: Inventory and the
   cost of goods sold.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/cb3a4dda24e8e01e1e95ece8b77a3011_lecture8.pdf
+file: /media/courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/cb3a4dda24e8e01e1e95ece8b77a3011_lecture8.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture8.pdf
 uid: cb3a4dda-24e8-e01e-1e95-ece8b77a3011
