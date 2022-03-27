@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: c92d66d7-30cf-451b-d3f6-c6577951ffd3
 resourcetype: Document
 title: mid2_s04_q.pdf
 uid: 5285fa7b-ebf5-3bbb-f2f6-6386fbd30cd2
