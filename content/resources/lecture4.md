@@ -5,6 +5,7 @@ file: /courses/15-501-introduction-to-financial-and-managerial-accounting-spring
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture4.pdf
 uid: b23153aa-7d3f-05bc-cddb-2fb9ec087447
 ---
 Lecture presentation.
-

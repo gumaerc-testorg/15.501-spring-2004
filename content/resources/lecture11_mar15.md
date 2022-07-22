@@ -6,6 +6,7 @@ file: /courses/15-501-introduction-to-financial-and-managerial-accounting-spring
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture11_mar15.pdf
 uid: fcb91184-637a-0040-c59a-421e833588f8
 ---
 Lecture presentation covering the following topics: matching principle assets, difference between book vs. tax accounting.
-

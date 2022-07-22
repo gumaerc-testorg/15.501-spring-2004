@@ -6,6 +6,7 @@ file: /courses/15-501-introduction-to-financial-and-managerial-accounting-spring
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps7_sol.pdf
 uid: 4b929425-6255-6110-c645-ffacf5e78c6d
 ---
 This resource includes solutions to problems on long-term debt, leases and Off-Balance Sheet financing.
-

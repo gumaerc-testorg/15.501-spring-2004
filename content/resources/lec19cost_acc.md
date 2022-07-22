@@ -7,6 +7,7 @@ file: /courses/15-501-introduction-to-financial-and-managerial-accounting-spring
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec19cost_acc.pdf
 uid: c70a94f8-d335-a139-ab94-7cc605b92fe2
 ---
 Lecture presentation covering the following topics: Overview of managerial accounting issues, Cost accounting terminology, Cost behavior, Product costing: traditional method, Product costing: activity based costing.
-

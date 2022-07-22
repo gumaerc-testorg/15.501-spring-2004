@@ -6,6 +6,7 @@ file: /courses/15-501-introduction-to-financial-and-managerial-accounting-spring
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture10.pdf
 uid: 2e2d6ae5-c32c-5c3b-3d78-6732af5ac4f8
 ---
 Lecture presentation containing a discussion of the structure and topics of the midterm exam.
-

@@ -6,6 +6,7 @@ file: /courses/15-501-introduction-to-financial-and-managerial-accounting-spring
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture3.pdf
 uid: 2c107108-15d3-1fe4-9868-69b87901baf6
 ---
 Lecture presentation covering the following topics: Results of Operating Performanceand a discussion on assets.
-

@@ -6,6 +6,7 @@ file: /courses/15-501-introduction-to-financial-and-managerial-accounting-spring
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture14.pdf
 uid: 6993fcbf-2b52-831f-916e-ff3d1d8af643
 ---
 Lecture presentation covering the following topics: Marketable Securities and Time Value of Money.
-

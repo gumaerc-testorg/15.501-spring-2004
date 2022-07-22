@@ -5,6 +5,7 @@ file: /courses/15-501-introduction-to-financial-and-managerial-accounting-spring
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: final_exam_s03.pdf
 uid: 7b0662d1-555c-9f89-9965-dd973a707967
 ---
 This exam consists of 7 multi-part problems.
-

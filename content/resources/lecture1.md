@@ -6,6 +6,7 @@ file: /courses/15-501-introduction-to-financial-and-managerial-accounting-spring
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture1.pdf
 uid: ba3b08d9-b4cb-8c76-d3f0-17030f790e2f
 ---
 Lecture presentation covering the following topics: basic accounting and an overview of information in financial statements.
-

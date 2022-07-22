@@ -5,6 +5,7 @@ file: /courses/15-501-introduction-to-financial-and-managerial-accounting-spring
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: mid2_fall03_sol.pdf
 uid: 62783884-79be-5848-7d64-72053c6901da
 ---
 Solutions to the midterm exam problems.
-

@@ -6,6 +6,7 @@ file: /courses/15-501-introduction-to-financial-and-managerial-accounting-spring
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture12.pdf
 uid: 9b4ba53d-ee70-a298-bd78-29b4918e6780
 ---
 Lecture presentation covering the following topic: Changes in Depriciation Estimates caused by the change in asset life or Salvage value.
-

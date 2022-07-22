@@ -6,6 +6,7 @@ file: /courses/15-501-introduction-to-financial-and-managerial-accounting-spring
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture6.pdf
 uid: 11340e70-23ce-5a26-a0a3-04a2bbde5e1c
 ---
 Lecture presentation covering the following topics: receivables and revenue recognition.
-
