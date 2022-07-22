@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 958d1c15-5079-76f4-6b61-537e48852700
 ---
@@ -22,7 +26,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Overview of the course, Administrative matters, Discussion of Accounting Framework ([PDF]({{< baseurl >}}/resources/lecture1))
+Overview of the course, Administrative matters, Discussion of Accounting Framework ({{% resource_link ba3b08d9-b4cb-8c76-d3f0-17030f790e2f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -31,7 +35,7 @@ Overview of the course, Administrative matters, Discussion of Accounting Framewo
 2
 {{< tdclose >}}
 {{< tdopen >}}
-The Balance Sheet and the Recording of Transactions ([PDF]({{< baseurl >}}/resources/lecture2resaved))
+The Balance Sheet and the Recording of Transactions ({{% resource_link 17d043d2-00b3-3db8-b3eb-36ce306a1f51 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +44,7 @@ The Balance Sheet and the Recording of Transactions ([PDF]({{< baseurl >}}/resou
 3
 {{< tdclose >}}
 {{< tdopen >}}
-The Income Statement and Principles of Accrual Accounting ([PDF]({{< baseurl >}}/resources/lecture3))
+The Income Statement and Principles of Accrual Accounting ({{% resource_link 2c107108-15d3-1fe4-9868-69b87901baf6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +53,7 @@ The Income Statement and Principles of Accrual Accounting ([PDF]({{< baseurl >}}
 4
 {{< tdclose >}}
 {{< tdopen >}}
-The Income Statement and Principles of Accrual Accounting (cont.) ([PDF]({{< baseurl >}}/resources/lecture4))
+The Income Statement and Principles of Accrual Accounting (cont.) ({{% resource_link b23153aa-7d3f-05bc-cddb-2fb9ec087447 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +62,7 @@ The Income Statement and Principles of Accrual Accounting (cont.) ([PDF]({{< bas
 5
 {{< tdclose >}}
 {{< tdopen >}}
-The Accounting Process ([PDF]({{< baseurl >}}/resources/lecture5_feb18))
+The Accounting Process ({{% resource_link a9b05c8a-8412-55b2-1c74-1259fedb42fa "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +71,7 @@ The Accounting Process ([PDF]({{< baseurl >}}/resources/lecture5_feb18))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Revenue Recognition ([PDF]({{< baseurl >}}/resources/lecture6))
+Revenue Recognition ({{% resource_link 11340e70-23ce-5a26-a0a3-04a2bbde5e1c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +80,7 @@ Revenue Recognition ([PDF]({{< baseurl >}}/resources/lecture6))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Revenue Recognition (cont.) ([PDF]({{< baseurl >}}/resources/lecture7))
+Revenue Recognition (cont.) ({{% resource_link 2bff0643-c84d-a664-5bfc-d0c5cb32fc4b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +89,7 @@ Revenue Recognition (cont.) ([PDF]({{< baseurl >}}/resources/lecture7))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Inventory/Cost of Goods Sold ([PDF]({{< baseurl >}}/resources/lecture8))
+Inventory/Cost of Goods Sold ({{% resource_link cb3a4dda-24e8-e01e-1e95-ece8b77a3011 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +98,7 @@ Inventory/Cost of Goods Sold ([PDF]({{< baseurl >}}/resources/lecture8))
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Statement of Cash Flow ([PDF]({{< baseurl >}}/resources/lecture9))
+Statement of Cash Flow ({{% resource_link 381ce796-79cc-5131-3adf-be13884d2c56 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +107,7 @@ Statement of Cash Flow ([PDF]({{< baseurl >}}/resources/lecture9))
 10
 {{< tdclose >}}
 {{< tdopen >}}
-More on the Statement of Cash Flows/Exam Review ([PDF]({{< baseurl >}}/resources/lecture10))
+More on the Statement of Cash Flows/Exam Review ({{% resource_link 2e2d6ae5-c32c-5c3b-3d78-6732af5ac4f8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +125,7 @@ First Exam
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Long-term Assets/Depreciation (Deferred Taxes) ([PDF]({{< baseurl >}}/resources/lecture11_mar15))
+Long-term Assets/Depreciation (Deferred Taxes) ({{% resource_link fcb91184-637a-0040-c59a-421e833588f8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,7 +134,7 @@ Long-term Assets/Depreciation (Deferred Taxes) ([PDF]({{< baseurl >}}/resources/
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Matching Principle for PP&E ([PDF]({{< baseurl >}}/resources/lecture12))
+Matching Principle for PP&E ({{% resource_link 9b4ba53d-ee70-a298-bd78-29b4918e6780 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +143,7 @@ Matching Principle for PP&E ([PDF]({{< baseurl >}}/resources/lecture12))
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Marketable Securities (Deferred Taxes) ([PDF]({{< baseurl >}}/resources/lecture13market))
+Marketable Securities (Deferred Taxes) ({{% resource_link f4644294-9105-ec27-adf5-fcf3769a8180 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +152,7 @@ Marketable Securities (Deferred Taxes) ([PDF]({{< baseurl >}}/resources/lecture1
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Marketable Securities, Time Value of Money ([PDF]({{< baseurl >}}/resources/lecture14))
+Marketable Securities, Time Value of Money ({{% resource_link 6993fcbf-2b52-831f-916e-ff3d1d8af643 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +161,7 @@ Marketable Securities, Time Value of Money ([PDF]({{< baseurl >}}/resources/lect
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Long Term Debt ([PDF]({{< baseurl >}}/resources/lecture15long))
+Long Term Debt ({{% resource_link 455790b7-43f6-a574-daf8-a50385915d32 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -166,7 +170,7 @@ Long Term Debt ([PDF]({{< baseurl >}}/resources/lecture15long))
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Leases and Off-Balance Sheet Financing ([PDF]({{< baseurl >}}/resources/lecture16le_acc))
+Leases and Off-Balance Sheet Financing ({{% resource_link 00d9475e-1349-0d27-19cf-e20c821be080 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -184,7 +188,7 @@ Current Liabilities and Contingencies
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Midterm 2 Review ([PDF]({{< baseurl >}}/resources/lecture17sec_mid))
+Midterm 2 Review ({{% resource_link b9c354f9-539d-0df4-d889-eca28a9bf9e8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -202,7 +206,7 @@ Second Exam
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Intangibles and Business Combinations ([PDF]({{< baseurl >}}/resources/lecture18bu_comb))
+Intangibles and Business Combinations ({{% resource_link 85c3c71a-e2b3-4a86-41d3-f945b9dd25ac "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -211,7 +215,7 @@ Intangibles and Business Combinations ([PDF]({{< baseurl >}}/resources/lecture18
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to Cost Concepts ([PDF]({{< baseurl >}}/resources/lec19cost_acc))
+Introduction to Cost Concepts ({{% resource_link c70a94f8-d335-a139-ab94-7cc605b92fe2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -220,7 +224,7 @@ Introduction to Cost Concepts ([PDF]({{< baseurl >}}/resources/lec19cost_acc))
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Indirect Allocation of Costs, Destin Brass ([PDF]({{< baseurl >}}/resources/lec20cost_alloca))
+Indirect Allocation of Costs, Destin Brass ({{% resource_link 5f4d4f23-a5da-ee37-df63-fef764e09f1e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -229,7 +233,7 @@ Indirect Allocation of Costs, Destin Brass ([PDF]({{< baseurl >}}/resources/lec2
 24
 {{< tdclose >}}
 {{< tdopen >}}
-ABC, Destin Brass ([PDF]({{< baseurl >}}/resources/lec21cost_alloii))
+ABC, Destin Brass ({{% resource_link 2f087dd9-85b6-b46d-d358-a98d956643d1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -247,7 +251,7 @@ Managerial Accounting Wrap-up, Seligram Discussion
 26
 {{< tdclose >}}
 {{< tdopen >}}
-Course Review/Wrap-up ([PDF]({{< baseurl >}}/resources/lec_final_review))
+Course Review/Wrap-up ({{% resource_link b375957b-74b6-e5be-b843-95453aa77c4c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
