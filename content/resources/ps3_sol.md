@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes solutions to problems on revenue recognition and
   accounting for account receivables.
 file: /courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/e9e161a47b5a631d550147fc1e5d68fd_ps3_sol.pdf
+file_size: 102959
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes solutions to problems on long-term debt, leases
   and Off-Balance Sheet financing.
 file: /courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/4b92942562556110c645ffacf5e78c6d_ps7_sol.pdf
+file_size: 73203
 file_type: application/pdf
 learning_resource_types:
 - Assignments
