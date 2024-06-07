@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation.
 file: /courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/a9b05c8a841255b21c741259fedb42fa_lecture5_feb18.pdf
+file_size: 309198
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
