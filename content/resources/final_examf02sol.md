@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to the final exam problems.
-file: /courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/2bd1febe2a5f5c1f7a660f80ffed77f5_final_examf02sol.pdf
+file: /ol-ocw-studio-app/courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/2bd1febe2a5f5c1f7a660f80ffed77f5_final_examf02sol.pdf
 file_size: 97941
 file_type: application/pdf
 learning_resource_types:
