@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture presentation covering the following topics: receivables and
   revenue recognition.'
-file: /ol-ocw-studio-app/courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/11340e7023ce5a26a0a304a2bbde5e1c_lecture6.pdf
+file: /courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/11340e7023ce5a26a0a304a2bbde5e1c_lecture6.pdf
 file_size: 182849
 file_type: application/pdf
 learning_resource_types:
