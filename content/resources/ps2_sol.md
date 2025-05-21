@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes solutions to the Chemalite, Inc. case problems.
-file: /ol-ocw-studio-app/courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/ca2690cfb3e9f044bdca1a48572c90af_ps2_sol.pdf
+file: /courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/ca2690cfb3e9f044bdca1a48572c90af_ps2_sol.pdf
 file_size: 41715
 file_type: application/pdf
 learning_resource_types:

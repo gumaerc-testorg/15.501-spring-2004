@@ -3,7 +3,7 @@ content_type: resource
 description: This resource includes problems on accounting for depreciation, Delta-Pan
   Am airlines case write-up. The problem sets are to be done individually and are
   intended to help the student learn and practice the mechanics of the course material.
-file: /ol-ocw-studio-app/courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/c6e7ffa4adbf1e011885f5d7bcb0f2e0_ps5.pdf
+file: /courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/c6e7ffa4adbf1e011885f5d7bcb0f2e0_ps5.pdf
 file_size: 22684
 file_type: application/pdf
 learning_resource_types:

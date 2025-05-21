@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation.
-file: /ol-ocw-studio-app/courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/b375957b74b6e5beb84395453aa77c4c_lec_final_review.pdf
+file: /courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/b375957b74b6e5beb84395453aa77c4c_lec_final_review.pdf
 file_size: 222697
 file_type: application/pdf
 learning_resource_types:

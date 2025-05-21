@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture presentation covering the following topics: matching principle
   assets, difference between book vs. tax accounting.'
-file: /ol-ocw-studio-app/courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/fcb91184637a0040c59a421e833588f8_lecture11_mar15.pdf
+file: /courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/fcb91184637a0040c59a421e833588f8_lecture11_mar15.pdf
 file_size: 134727
 file_type: application/pdf
 learning_resource_types:
