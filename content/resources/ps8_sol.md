@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes solutions to problems on seligram case write-up.
-file: /ol-ocw-studio-app/courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/528f54df850fc1075b8a49fe4e4deb18_ps8_sol.pdf
+file: /courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/528f54df850fc1075b8a49fe4e4deb18_ps8_sol.pdf
 file_size: 61677
 file_type: application/pdf
 learning_resource_types:
