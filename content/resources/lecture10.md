@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation containing a discussion of the structure and topics
   of the midterm exam.
-file: /courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/2e2d6ae5c32c5c3b3d786732af5ac4f8_lecture10.pdf
+file: /ol-ocw-studio-app/courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/2e2d6ae5c32c5c3b3d786732af5ac4f8_lecture10.pdf
 file_size: 158886
 file_type: application/pdf
 learning_resource_types:
