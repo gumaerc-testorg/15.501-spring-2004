@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to the midterm exam problems.
-file: /courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/081be1f0b42445702594cc761594c01b_mid1_f03_sol.pdf
+file: /ol-ocw-studio-app/courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/081be1f0b42445702594cc761594c01b_mid1_f03_sol.pdf
 file_size: 246382
 file_type: application/pdf
 learning_resource_types:
