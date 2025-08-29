@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes solutions to problems on use of the BSE to record
   transactions, and preparation of financial statements.
-file: /courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/74f40c676bd0b1171c235a64e1a573dd_ps1_sol.pdf
+file: /ol-ocw-studio-app/courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/74f40c676bd0b1171c235a64e1a573dd_ps1_sol.pdf
 file_size: 90940
 file_type: application/pdf
 learning_resource_types:
